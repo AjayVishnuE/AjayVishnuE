@@ -11,6 +11,19 @@
 
 - 📫 Reach me at ajayvishnu121@gmail.com
 
+<p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AjayVishnuE"/></p>
+
+<h2 align="left">🌏 Connect with me:</h2>
+
+- [LinkedIn](https://www.linkedin.com/in/ajayvishnue)
+- [Twitter](https://twitter.com/AjayVis65817041)
+- [Instagram](https://www.instagram.com/ajay_vishnu_)
+- [Facebook](https://www.facebook.com/ajay.vishnu.52090/)
+<!---
+<h2 align="left">🚀 My Github Stats:</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AjayVishnuE&border_color=8F00FF&bg_color=8F00FF&text_color=ffff&title_color=ffff" alt="AjayVishnuE" /></p>
+-->
 
 <h3 align="center">Languages and Tools I use :</h3>
 <p align="center"> 
