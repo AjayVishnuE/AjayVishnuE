@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as Front End Developer.
 
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning Full Stack.
 
 - 👯 I’m looking to collaborate on various web development projects.
 
-- 💬 Ask me about anything you wish to kow from me.
+- 💬 Ask me about anything you wish to know from me.
 
 - 📫 Reach me at ajayvishnu121@gmail.com
 
